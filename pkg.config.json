@@ -1,0 +1,9 @@
+{
+    "pkg": {
+        "targets": [
+            "node14-win-x64"
+        ],
+        "assets": "./public/**/*",
+        "outputPath": "../dist"
+    }
+}
